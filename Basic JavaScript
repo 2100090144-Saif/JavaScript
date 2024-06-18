@@ -1,0 +1,12 @@
+console.log("This is my first javascript program");
+
+let a=' saif'
+console.log(`my name is Md${a}`)
+
+let age = 17;
+let status = (age >=18) ? 'yes vote' : 'No vote';
+console.log(status)
+
+
+
+    
