@@ -1,0 +1,12 @@
+let person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 25
+};
+
+console.log(person.firstName);  // Access property
+person.age = 30;                // Modify property
+console.log(person);
+
+
+
